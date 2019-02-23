@@ -14,7 +14,7 @@
 
     @stack('head')
 </head>
-<body class="bg-dark">
+<body class="bg-white">
     <div id="container">
         <div id="inner">
             <section>

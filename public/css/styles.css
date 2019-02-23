@@ -3,13 +3,16 @@
 *
 */
 
+@import url('https://fonts.googleapis.com/css?family=Arvo|Vast+Shadow');
+
+
     #container {
 
         text-align:center;
     }
 
     body {
-    	background-color: black;
+    	background-color: white;
     }
 
     #nav {
@@ -76,9 +79,25 @@
         background-color: black;
     }
 
+.mainFont {
+        font-size: 350%;
+      
+        font-family: 'Arvo', serif;
+        font-family: 'Vast Shadow', cursive;
+        color: #000000;
+}
+
     .nav1 {
         width: 165px;
         height: 100%;
+    }
+
+    #indexPageDiv p{
+      font-size: 200%;
+      padding-top:1%;
+      padding-left: 10%;
+      padding-right: 10%;
+
     }
 
     #welcome {
@@ -90,6 +109,18 @@
     #reOrder-container em {
         font-size: 10px;
     }
+
+    #titleHeader {
+        font-size: 500%;
+
+        font-family: 'Arvo', serif;
+        font-family: 'Vast Shadow', cursive;
+        letter-spacing: .15rem;
+        padding-bottom: 1%;
+        border-bottom: 3px solid black;
+        color: #000000;
+    }
+
 
     nav a {
         color: white;
@@ -373,7 +404,7 @@
 
     #title h1 {
         text-align: center;
-        color: white;
+        color: black;
         margin-bottom: 40px;
     }
 
