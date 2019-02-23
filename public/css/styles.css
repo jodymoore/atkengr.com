@@ -19,7 +19,7 @@
         
         border-radius: 5px;
         width: 80%;
-        height: 50px;
+ 
         margin-left: auto;
         margin-right: auto;
         margin-top: -5px;
@@ -84,7 +84,7 @@
       
         font-family: 'Arvo', serif;
         font-family: 'Vast Shadow', cursive;
-        color: #000000;
+        color: #FF00FF;
 }
 
     .nav1 {
@@ -120,18 +120,20 @@
         letter-spacing: .15rem;
         padding-bottom: 1%;
         border-bottom: 3px solid black;
-        color: #000000;
+        color: #38EEFF ;
     }
 
 
     nav a {
-        color: white;
+        color: #000000;
         font-weight: bold;
         font-size: 14px;
-        padding-top: 14px;
+        padding-top: .5%;
+        padding-bottom: .5%;
         text-decoration: none;
-        background-color: green;
+        background-color:   #32CD32;
         border-radius: 10px;
+        border: 2px solid black;
         height: 60px;
         display: inline-block;
     }
@@ -406,7 +408,6 @@
 
     #title h1 {
         text-align: center;
-        color: black;
         margin-bottom: 40px;
     }
 
