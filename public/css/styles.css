@@ -75,6 +75,10 @@
         background-color: transparent;
     }
 
+    span {
+        font-size: 150%;
+    }
+
     .form-horizontal {
         background-color: black;
     }
@@ -120,7 +124,7 @@
         letter-spacing: .15rem;
         padding-bottom: 1%;
         border-bottom: 3px solid black;
-        color: #38EEFF ;
+        color: #000000 ;
     }
 
 
