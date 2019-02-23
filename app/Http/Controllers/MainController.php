@@ -13,4 +13,12 @@ class MainController extends Controller
 
         return view('index');
     }
+
+     /*
+     *  showProducts
+     */
+    public function showProducts(Request $request) {
+
+        return view('products');
+    }
 }

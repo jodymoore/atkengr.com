@@ -27,6 +27,10 @@ Route::get('/', function () {
 */
 Route::get('/', 'MainController@show');
 
+/**
+*  /show
+*/
+Route::get('/products', 'MainController@showProducts');
 
 Auth::routes();
 
