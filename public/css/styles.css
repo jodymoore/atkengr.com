@@ -94,6 +94,7 @@
     }
 
     #indexPageDiv p{
+      text-align: left;
       font-size: 150%;
       padding-top:1%;
       padding-left: 10%;
