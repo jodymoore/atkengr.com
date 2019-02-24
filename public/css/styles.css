@@ -84,7 +84,7 @@
     }
 
 .mainFont {
-        font-size: 350%;
+        font-size: 250%;
       
         font-family: 'Vineta', serif;
         /*font-family: 'Vast Shadow', cursive;*/
@@ -92,7 +92,7 @@
 }
 
 .SecondaryFont {
-            font-size: 250%;
+            font-size: 150%;
       
         font-family: 'Vineta', serif;
         /*font-family: 'Vast Shadow', cursive;*/
@@ -117,7 +117,7 @@
     }
 
     #titleHeader {
-        font-size: 250%;
+        font-size: 200%;
         font-weight: 500;
         font-family: 'Vineta', serif;
         /*font-family: 'Vast Shadow', cursive;*/

@@ -21,4 +21,20 @@ class MainController extends Controller
 
         return view('products');
     }
+
+    /*
+     *  showProducts
+     */
+    public function showContact(Request $request) {
+
+        return view('contact');
+    }
+
+     /*
+     *  showBuy
+     */
+    public function showBuy(Request $request) {
+
+        return view('buy');
+    }
 }

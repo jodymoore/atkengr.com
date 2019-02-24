@@ -32,6 +32,23 @@ Route::get('/', 'MainController@show');
 */
 Route::get('/products', 'MainController@showProducts');
 
+
+/**
+*  /showContact
+*/
+Route::get('/contact', 'MainController@showContact');
+
+/**
+*  /showBuy
+*/
+Route::get('/buy', 'MainController@showBuy');
+
+/**
+*  /order
+*/
+Route::get('/order', 'CartController@show');
+
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
