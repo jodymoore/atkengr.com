@@ -20,6 +20,7 @@
 </div>
 
 <br>
+<br>
 
 
   @include('nav')

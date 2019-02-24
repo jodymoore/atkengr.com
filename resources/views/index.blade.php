@@ -4,6 +4,7 @@
 
 @include('header')
 <br>
+<br>
 <div id="indexPageDiv">
 
    <h2 class="mainFont" ><span>D</span>ETAILED <span>P</span>ROCEDURES & <span>T</span>UTORIALS</h2>
