@@ -8,13 +8,11 @@
                  
              </div>  
 
-                       <ul class="nav navbar-nav navbar-right">
+          <ul class="nav navbar-nav navbar-right">
               <li><a href="/order">CHECK OUT</a></li>
           </ul>
              
-        <div class="message">
-           
-        </div>
+
      </div>
 
 
