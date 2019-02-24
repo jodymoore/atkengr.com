@@ -3,7 +3,7 @@
 *
 */
 
-@import url('https://fonts.googleapis.com/css?family=Arvo|Vast+Shadow');
+@import url(//db.onlinewebfonts.com/c/0faa47d7ebe58ce58753a81217310a9a?family=Vineta);
 
 
     #container {
@@ -86,8 +86,16 @@
 .mainFont {
         font-size: 350%;
       
-        font-family: 'Arvo', serif;
-        font-family: 'Vast Shadow', cursive;
+        font-family: 'Vineta', serif;
+        /*font-family: 'Vast Shadow', cursive;*/
+        color: #FF00FF;
+}
+
+.SecondaryFont {
+            font-size: 250%;
+      
+        font-family: 'Vineta', serif;
+        /*font-family: 'Vast Shadow', cursive;*/
         color: #FF00FF;
 }
 
@@ -97,14 +105,6 @@
         font-size: 125%;
     }
 
-    #indexPageDiv p{
-      text-align: left;
-      font-size: 150%;
-      padding-top:1%;
-      padding-left: 18%;
-      padding-right: 18%;
-
-    }
 
     #welcome {
     	color: white;
@@ -117,11 +117,11 @@
     }
 
     #titleHeader {
-        font-size: 350%;
-
-        font-family: 'Arvo', serif;
-        font-family: 'Vast Shadow', cursive;
-        letter-spacing: .15rem;
+        font-size: 250%;
+        font-weight: 500;
+        font-family: 'Vineta', serif;
+        /*font-family: 'Vast Shadow', cursive;*/
+     
         padding-bottom: 1%;
         border-bottom: 3px solid black;
         color: #000000 ;
@@ -132,15 +132,25 @@
         color: #000000;
         font-weight: bold;
         font-size: 14px;
-        padding-top: .5%;
-        padding-bottom: .5%;
+        padding-top: .2%;
+        padding-bottom: .2%;
         text-decoration: none;
         background-color:   #32CD32;
         border-radius: 10px;
         border: 2px solid black;
-        height: 60px;
+        height: 50px;
         display: inline-block;
     }
+
+    #indexPageDiv p{
+      text-align: left;
+      font-size: 150%;
+      padding-top:1%;
+      padding-left: 33%;
+      padding-right: 33%;
+
+    }
+
 
     
     #form label {
