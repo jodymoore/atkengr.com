@@ -118,14 +118,17 @@
 
     #titleHeader {
         font-size: 200%;
-        font-weight: 500;
+        font-weight: 400;
         font-family: 'Vineta', serif;
         /*font-family: 'Vast Shadow', cursive;*/
-     
-        padding-bottom: 1%;
-        border-bottom: 3px solid black;
+         width: 80%;
+ 
+
         color: #000000 ;
+
     }
+
+
 
 
     nav a {
@@ -225,18 +228,20 @@
     }
 
     #checkout {
-       margin-top: -6%;
-       margin-left: 60%;
-       display: inline-block;
+       text-align: center;
        border-radius: 10px;
+       width: 10%;
+    }
+
+    #leftsideDiv {
+      width: 10%; 
     }
 
     #total {
         background-color: white;
         border-radius: 10px;
         width: 50px; 
-        margin-left: 266px;
-        margin-bottom: -60px;
+
     }
 
     #own-order {
@@ -422,7 +427,14 @@
 
     #title h1 {
         text-align: center;
-        margin-bottom: 40px;
+
+    }
+
+    #title {
+  
+        width: 100%;
+        border-bottom: 3px solid black;
+
     }
 
     #header-controls {
