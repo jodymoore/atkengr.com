@@ -13,7 +13,7 @@
     <h3 class="SecondaryFont" ><span>(R</span>OAD, <span>D</span>RAINAGE <span>S</span>EWER, &amp;<span>W</span>ATER<span>)</span></h3>
 <br>
 
-   <p>Gerald Atkins is a PE with over 55 years of Civil Engineering experience who has spent over 5 years in the development of a comprehensive set of Step-by-Step procedures, with Tutorials, on the use of AutoCad Civil 3D in the preparation of complete sets of Construction Drawings for Road, Drainage, Wastewater, and Water Improvement Projects.  The procedures and Tutorials will be a great benefit to a beginner or experienced user, or a person who is somewhat knowledgeable with the Construction Drawing preparation process but is not that familiar with the AutoCad Civil 3D procedures.</p>
+   <p>Gerald Atkins, PE has over 55 years of Civil Engineering experience who has spent over 5 years in the development of a comprehensive set of Step-by-Step procedures, with Tutorials, on the use of AutoCad Civil 3D in the preparation of complete sets of Construction Drawings for Road, Drainage, Wastewater, and Water Improvement Projects.  The procedures and Tutorials will be a great benefit to a beginner or experienced user, or a person who is somewhat knowledgeable with the Construction Drawing preparation process but is not that familiar with the AutoCad Civil 3D procedures.</p>
 
 </div>
 
