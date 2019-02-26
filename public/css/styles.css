@@ -164,23 +164,21 @@
         margin-left: 15px;
         color: black;
     }
-    .popPizzas-table h4 {
-      float:left;
-      padding-left: 15px;
+
+    img {
+        width: 75%;
+        height: 75%;
+        border-radius: 20px;
     }
 
-    .popPizzas-table p {
-      float:left;
-      padding-left: 15px;
-    }
-
-    .popPizzas-table {
+    .productDiv {
         width: 500px;
         height: 250px;
-        background-color: black;
+        background-color: white;
         opacity: 1;
-        margin-bottom: 20px;
+ 
     }
+
 
     #selectCheese {
         color: black;
@@ -201,10 +199,7 @@
         float: right;
     }
 
-    .popPizzas-table img {
-        float: left;
-        padding-left: 20px;
-    }
+
 
     #orderNow {
         width: 200px;
@@ -309,48 +304,6 @@
        margin-left: 20%;
     }
 
-    #meats {
-        float:left;
-        width: 47%;
-        background-color: #F5F5DC;
-        color: black;
-        border-radius: 10px;
-        margin-right: 3%;
-    }
-
-    #meats input{
-        float:left;
-        margin-left: -15%;
-    }
-
-    #meats ul{
-        margin-right: 
-    }
-
-    #meats h4{
-        border-bottom: 1px solid black;
-        padding-bottom: 2px;
-    }
-
-    #veg input{
-        float:left;
-        margin-left: -15%;
-    }
-
-    #veg h4{
-        border-bottom: 2px solid black;
-        padding-bottom: 2px;
-    }
-
-    #veg {
-        float:left;
-        width: 47%;
-        background-color: #F5F5DC;
-        color: black;
-        border-radius: 10px;
-        margin-left: 3%;
-
-    }
 
     #form {
         padding-top: 15px;

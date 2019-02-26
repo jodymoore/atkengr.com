@@ -1,51 +1,29 @@
 @extends('layouts.master')
 @section('content')
-@include('header')  
-    <div id="table">
-        <div class= "popPizzas-table" id="left-col">
-        <form action="/popOrder" method="post" accept-charset="utf-8">
-         {{ csrf_field() }}
+@include('header') 
+
+<br>
+<br> 
+    <div class="d-flex justify-content-center " >
+        <div class= "productDiv mr-5" >
     	    
+           <img src="img/Manual.jpg">
+           <caption><h4>Manual</h4></caption>
 
-            <br> 
-            <br> 
-            <br> 
-
-            </form>
+    
         </div>
 
-        <div class= "popPizzas-table" id="right-col">
-        <form action="/popOrder" method="post" accept-charset="utf-8">
-         {{ csrf_field() }}
+        <div class= "productDiv" >
+
     	  
 
-             <br> 
+            <img src="img/Drawings.jpg" >
 
-
-             </form>
-        </div>
-
-        <div class= "popPizzas-table" id="left-col">
-        <form action="/popOrder" method="post" accept-charset="utf-8">
-         {{ csrf_field() }}
-    	   
-    
-             <br> 
-
-
-            </form>
-        </div>
-
-        <div class= "popPizzas-table" id="right-col">
-        <form action="/popOrder" method="post" accept-charset="utf-8">
-         {{ csrf_field() }}
-
-             <br> 
-
-
-             </form>
+           <caption><h4>Autocad Drawings</h4></caption>
 
 
         </div>
+
+
     </div>
 @endsection
