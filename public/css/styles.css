@@ -171,12 +171,38 @@
         border-radius: 20px;
     }
 
+    .productFooter {
+        position: sticky;
+        top: 60%;
+
+    }
+
+    #drawingDesc {
+        font-style: italic;
+    }
+
+    #pdFooter {
+        font-style: italic;
+    }
+
+   .trademark {
+       position: relative;
+       font-size: 50%;
+       line-height: 0;
+       vertical-align: baseline;
+       top: -1.2em;
+
+   }
+
     .productDiv {
-        width: 500px;
-        height: 250px;
+        width: 600px;
+
         background-color: white;
         opacity: 1;
- 
+        border: 2px solid grey;
+        border-radius: 20px;
+        padding:5px;
+        box-shadow: 5px 8px 6px 8px #888888;
     }
 
     #selectCheese {

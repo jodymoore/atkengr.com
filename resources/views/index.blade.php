@@ -8,7 +8,7 @@
 <div id="indexPageDiv">
 
    <h2 class="mainFont" ><span>D</span>ETAILED <span>P</span>ROCEDURES & <span>T</span>UTORIALS</h2>
-   <h2 class="mainFont" ><span>U</span>SING <span>A</span>UTOCAD®  <span>C</span>IVIL <span>3D</span>® </h2>
+   <h2 class="mainFont" ><span>U</span>SING <span>A</span>UTOCAD<span class="trademark">®</span>  <span>C</span>IVIL <span>3D</span><span class="trademark">®</span> </h2>
     <h2 class="mainFont" ><span>F</span>OR <span>C</span>ONSTRUCTION  <span>D</span>RAWINGS</h2>
     <h3 class="SecondaryFont" ><span>(R</span>OAD, <span>D</span>RAINAGE <span>S</span>EWER, &amp;<span>W</span>ATER<span>)</span></h3>
 <br>
